@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcver\\OneDrive\\Nodo\\Profundizacion\\ClaseCuatro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA76AF6-51C0-493B-8740-C78190E9DEEA}|ClaseCuatro\\ClaseCuatro.csproj|c:\\users\\mcver\\onedrive\\nodo\\profundizacion\\clasecuatro\\clasecuatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA76AF6-51C0-493B-8740-C78190E9DEEA}|ClaseCuatro\\ClaseCuatro.csproj|solutionrelative:clasecuatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcver\\OneDrive\\Nodo\\Profundizacion\\ClaseCuatro\\ClaseCuatro\\Program.cs",
+              "RelativeDocumentMoniker": "ClaseCuatro\\Program.cs",
+              "ToolTip": "C:\\Users\\mcver\\OneDrive\\Nodo\\Profundizacion\\ClaseCuatro\\ClaseCuatro\\Program.cs",
+              "RelativeToolTip": "ClaseCuatro\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T01:27:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
