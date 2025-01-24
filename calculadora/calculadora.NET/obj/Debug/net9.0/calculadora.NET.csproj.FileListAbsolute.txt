@@ -1,0 +1,14 @@
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\bin\Debug\net9.0\calculadora.NET.exe
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\bin\Debug\net9.0\calculadora.NET.deps.json
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\bin\Debug\net9.0\calculadora.NET.runtimeconfig.json
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\bin\Debug\net9.0\calculadora.NET.dll
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\bin\Debug\net9.0\calculadora.NET.pdb
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.AssemblyInfoInputs.cache
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.AssemblyInfo.cs
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.csproj.CoreCompileInputs.cache
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.dll
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\refint\calculadora.NET.dll
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.pdb
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\calculadora.NET.genruntimeconfig.cache
+C:\Users\mcver\OneDrive\Nodo\Profundizacion\calculadora.NET\calculadora.NET\obj\Debug\net9.0\ref\calculadora.NET.dll
