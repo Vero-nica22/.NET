@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tDjNQhmG64=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcver\\OneDrive\\Nodo\\Profundizacion\\MiApiUno\\MiApiUno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcver\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\mcver\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
